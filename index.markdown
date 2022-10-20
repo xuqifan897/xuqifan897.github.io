@@ -4,6 +4,7 @@
 
 # layout: home
 layout: page
+title: Homepage
 ---
 # Who am I
 I'm a PhD student of UCLA in biomedical physics supervised by Dr [Ke Sheng]. I'll move with our group to UC Berkeley/UCSF. My research interest lies in the application of optimization, high-performance computing, machine learning, and Monte Carlo methods in biomedical research and beyond. I obtained my B.S. in applied physics in University and Science and Technology of China in 2020. I was a visiting student in UCLA at my current lab though CSST program. Prior to starting my PhD, I was a visiting student of [HPC-AI Lab] at NUS in collaboration with Dr Yang You, during which we conducted research in the application of distributed matrix-matrix multiplication algorithms to the parallelization of large language models.
